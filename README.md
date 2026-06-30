@@ -1,6 +1,3 @@
-#springboot-product-service
-
-
 A Spring Boot REST API backend for an e-commerce application, built using a layered architecture. The service manages products and categories, supporting both an external product source (FakeStore API) and a self-hosted database-backed implementation via Spring Data JPA.
 
 ## Overview
